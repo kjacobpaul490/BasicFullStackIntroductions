@@ -15,7 +15,8 @@ Basic Web site flow
      e . test tube mapping
 5 . Wire frames - Flow/ Diagram of the application
 6. Figma applcation
-   
+ 
+ # Second day  17-08-2025  
      
 
 
